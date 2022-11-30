@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OAES Final.iml" filepath="$PROJECT_DIR$/.idea/OAES Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/add-service/add-service.iml" filepath="$PROJECT_DIR$/add-service/add-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/delete-service/delete-service.iml" filepath="$PROJECT_DIR$/delete-service/delete-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modify-service/modify-service.iml" filepath="$PROJECT_DIR$/modify-service/modify-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DB-service/user-service.iml" filepath="$PROJECT_DIR$/DB-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-service (1).iml" filepath="$PROJECT_DIR$/user-service/user-service (1).iml" />
+    </modules>
+  </component>
+</project>
